@@ -1,0 +1,2 @@
+前台：http://localhost:8080/springboot1xam1/front/index.html
+后台：http://localhost:8080/springboot1xam1/admin/dist/index.html
