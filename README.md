@@ -1,5 +1,5 @@
 # 1 项目介绍
-基于SSM+Vue的货车售票系统：后端 SpringBoot、Mybatis-Plus，前端Vue+ElementUI，具体功能如下：
+基于SSM+Vue的火车售票系统：后端 SpringBoot、Mybatis-Plus，前端Vue+ElementUI，具体功能如下：
 ## 管理员
 - 个人中心：查看和修改个人信息、修改密码
 - 用户管理
